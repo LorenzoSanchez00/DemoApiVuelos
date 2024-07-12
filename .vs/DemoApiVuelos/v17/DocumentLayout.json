@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkStation\\learningApis\\ApiVuelos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\services\\icommonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\controllers\\vueloscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\services\\vueloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\services\\vueloservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\repository\\vuelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\repository\\vuelorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\validators\\modificarvuelosvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\validators\\modificarvuelosvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\automappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\models\\aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\models\\aerolinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\dtos\\modificarvuelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\dtos\\modificarvuelodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|d:\\workstation\\learningapis\\apivuelos\\apivuelos\\models\\vuelosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E2BCC9B-A6C1-4E54-B38A-0DD60E430037}|ApiVuelos\\ApiVuelos.csproj|solutionrelative:apivuelos\\models\\vuelosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiVuelos\\appsettings.json",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\appsettings.json",
+              "RelativeToolTip": "ApiVuelos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T13:12:05.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModificarVuelosValidator.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Validators\\ModificarVuelosValidator.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Validators\\ModificarVuelosValidator.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Validators\\ModificarVuelosValidator.cs",
+              "RelativeToolTip": "ApiVuelos\\Validators\\ModificarVuelosValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T12:14:03.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VueloRepository.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Repository\\VueloRepository.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Repository\\VueloRepository.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Repository\\VueloRepository.cs",
+              "RelativeToolTip": "ApiVuelos\\Repository\\VueloRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:21:21.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Repository\\IRepository.cs",
+              "RelativeToolTip": "ApiVuelos\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:12:24.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VueloService.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Services\\VueloService.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Services\\VueloService.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Services\\VueloService.cs",
+              "RelativeToolTip": "ApiVuelos\\Services\\VueloService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:32:21.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICommonService.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Services\\ICommonService.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Services\\ICommonService.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Services\\ICommonService.cs",
+              "RelativeToolTip": "ApiVuelos\\Services\\ICommonService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:14:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VuelosController.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Controllers\\VuelosController.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Controllers\\VuelosController.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Controllers\\VuelosController.cs",
+              "RelativeToolTip": "ApiVuelos\\Controllers\\VuelosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:59:39.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Automappers\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Automappers\\MappingProfile.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Automappers\\MappingProfile.cs",
+              "RelativeToolTip": "ApiVuelos\\Automappers\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T11:08:36.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModificarVueloDto.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\DTOs\\ModificarVueloDto.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\DTOs\\ModificarVueloDto.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\DTOs\\ModificarVueloDto.cs",
+              "RelativeToolTip": "ApiVuelos\\DTOs\\ModificarVueloDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T04:48:28.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aerolinea.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Models\\Aerolinea.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Models\\Aerolinea.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Models\\Aerolinea.cs",
+              "RelativeToolTip": "ApiVuelos\\Models\\Aerolinea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:47:40.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VuelosDbContext.cs",
+              "DocumentMoniker": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Models\\VuelosDbContext.cs",
+              "RelativeDocumentMoniker": "ApiVuelos\\Models\\VuelosDbContext.cs",
+              "ToolTip": "D:\\WorkStation\\learningApis\\ApiVuelos\\ApiVuelos\\Models\\VuelosDbContext.cs",
+              "RelativeToolTip": "ApiVuelos\\Models\\VuelosDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:51:01.68Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
